@@ -1,1 +1,1 @@
-
+web: gunicorn learngame.wsgi
