@@ -1,1 +1,1 @@
-web: gunicorn learngame.wsgi --log-file -
+web: gunicorn ash.wsgi --log-file -
